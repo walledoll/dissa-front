@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: #8c2bee0a;
+  position: relative;
+}
+
+:after {
+  content: "";
+}
+
+.header {
+  height: 96px;
+  display: flex;
+  align-items: center;
+  padding: 40px 24px;
+  justify-content: space-between;
+}
+
+.smthNew {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 45px;
+  letter-spacing: -0.9px;
+  text-align: center;
+  margin-top: 232px;
+  margin-bottom: 24px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.caption {
+  color: #475569;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.heart {
+  position: absolute;
+  top: 87px;
+  left: 45px;
+}
