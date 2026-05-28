@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "LiberationSans";
+  src: url("../../../assets/fonts/LiberationSans-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "LiberationSans";
+  src: url("../../../assets/fonts/LiberationSans-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PlusJakartaSans";
+  src: url("../../../assets/fonts/PlusJakartaSans-ExtraBold.ttf");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PlusJakartaSans";
+  src: url("../../../assets/fonts/PlusJakartaSans-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PlusJakartaSans";
+  src: url("../../../assets/fonts/PlusJakartaSans-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --font-family-main: "LiberationSans";
+  --purple-main: #994ce6;
+  --font-family-second: "PlusJakartaSans";
+}

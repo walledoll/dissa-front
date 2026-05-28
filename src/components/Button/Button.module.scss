@@ -1,0 +1,21 @@
+.primary {
+  background-color: var(--purple-main);
+  color: #fff;
+}
+
+.lg {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0px;
+  padding: 4px 24px;
+  border-radius: 24px;
+  width: 335px;
+  height: 56px;
+}
+
+.secondary {
+  background-color: #8c2bee0a;
+  color: var(--purple-main);
+  border: 2px solid #994ce614;
+}
